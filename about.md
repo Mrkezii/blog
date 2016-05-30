@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a vision driven web developer who has a passion for making things happen and improving the lives of others, i strive to achieve that through churning great products and also through inter-human relationships
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[davidkezi6@gmail.com](mailto:davidkezi6@gmail.com)
