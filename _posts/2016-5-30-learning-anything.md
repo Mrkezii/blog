@@ -11,7 +11,6 @@ title: Steps To Learn Anything.
 
 
 
-
 4. Find Resources. Instead of reading a single book on a subject, try to gather many different resources to help you learn.
 5. Create a Learning plan. you need to have a plan or agenda that you intend to strictly follow.
 6. Filter Resources. Now that you know what you’re going to learn and what order you’re going to learn it in, it’s time to decide what resources you’re going to use to accomplish the task. Determine which resources are of the highest quality.
