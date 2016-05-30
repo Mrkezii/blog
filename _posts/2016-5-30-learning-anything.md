@@ -7,6 +7,8 @@ title: Steps To Learn Anything.
 2. Determine Scope. It’s time to narrow down your focus to determine what exactly you want to learn from whatever material you are using.
 3. Define Success. Before starting any great endeavor, it’s very important to define success.
  — Without knowing what success looks like, it’s both difficult to aim and to know when you’ve actually hit the target.
+
+
 4. Find Resources. Instead of reading a single book on a subject, try to gather many different resources to help you learn.
 5. Create a Learning plan. you need to have a plan or agenda that you intend to strictly follow.
 6. Filter Resources. Now that you know what you’re going to learn and what order you’re going to learn it in, it’s time to decide what resources you’re going to use to accomplish the task. Determine which resources are of the highest quality.
