@@ -5,7 +5,7 @@ title: It isn't the Language. Just your mind. Everything else is a Tool.
 
 One of the common patterns amongst Software Developers or other IT professionals, is their passion and loyalty to their tools. From operating systems, programming languages, hardware infrastructures and all what not. Today I will be focusing on the programming language side of things.
 
-We all know the flame wars that repeatedly occurs on the internet: My Programming language is better than yours, C# is the best thing after sliced bread, Python is the most readable language after Klingon, you only a real programmer if you program in Haskel etc. Lets pour some ice on that situation for a minute and lets talk like adults just for a second.
+We all know the flame wars that repeatedly occur on the internet: My Programming language is better than yours, C# is the best thing after sliced bread, Python is the most readable language after Klingon, you only a real programmer if you program in Haskel etc. Lets pour some ice on that situation for a minute and lets talk like adults just for a second.
 
 Programming languages are tools just like a drill, a hammer and glue. Some tools are better suited for some task than others and that doesn't mean the others are useless. Your choice of tools will directly affect your productivity. Also there is the issue of brand affiliation. You may like one brand over the other depending on whatever personal preference you have.
 
