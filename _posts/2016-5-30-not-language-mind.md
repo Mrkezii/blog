@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It isn't the Language. Just your mind. Everything else a Tool.
+title: It isn't the Language. Just your mind. Everything else is a Tool.
 ---
 
 One of the common patterns amongst Software Developers or other IT professionals, is their passion and loyalty to their tools. From operating systems, programming languages, hardware infrastructures and all what not. Today I will be focusing on the programming language side of things.
