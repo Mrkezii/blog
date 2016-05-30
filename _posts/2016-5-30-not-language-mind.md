@@ -30,3 +30,5 @@ So will I learn Python? Yes. I think Django is cool and if I am building a perso
 At the end of the day, I prefer to be Language and tool agnostic. Next month may be my Go Lang month, I may just find true love in Elm or in Elixir or I may just go complete Ninja and swear my allegiance to Erlang. What does it matter the language? All that matters is what I can do or will do with it. The client at the end of the day doesn't care about your language, all they want is value even if that is done through JavaScript.
 
 So I wish people will put down their arms and stop trashing other languages. I feel to gain the right to trash another language, you must have either contributed a feature to an existing language or built yours from scratch. And to add salt to injury, most people haven't had much diverse programming language background and I think they need to keep low for a bit.
+
+Originally appeared [here](http://ndifreke-ekott.info/2016/04/23/it-isnt-the-language-just-your-mind/)
