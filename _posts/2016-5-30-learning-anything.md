@@ -3,10 +3,13 @@ layout: post
 title: Steps To Learn Anything.
 ---
 
+
 1. Get the big picture. Most developers crack open a book and start reading through it with- out even knowing what they don’t know.
 2. Determine Scope. It’s time to narrow down your focus to determine what exactly you want to learn from whatever material you are using.
 3. Define Success. Before starting any great endeavor, it’s very important to define success.
  — Without knowing what success looks like, it’s both difficult to aim and to know when you’ve actually hit the target.
+
+
 
 
 4. Find Resources. Instead of reading a single book on a subject, try to gather many different resources to help you learn.
