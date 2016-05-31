@@ -30,3 +30,5 @@ You can teach what you’ve learned in many different ways. - Write a blog post.
  
 
 Then Finally, Look for Mentors.—  Find your own Yoda, mentors play a very great role in pushing us to achieve our goals as many of them have passed through the same challenges and have experience.
+
+Originally posted by Prosper Otemuyiwa on [twitter](https://twitter.com/unicodeveloper)
