@@ -12,11 +12,17 @@ title: Steps To Learn Anything.
 
 
 4. Find Resources. Instead of reading a single book on a subject, try to gather many different resources to help you learn.
+
 5. Create a Learning plan. you need to have a plan or agenda that you intend to strictly follow.
+
 6. Filter Resources. Now that you know what you’re going to learn and what order you’re going to learn it in, it’s time to decide what resources you’re going to use to accomplish the task. Determine which resources are of the highest quality.
+
 7. Learn enough to get started. Don't go reading 5 books before you even start the project. Just wrong, time wasting and wrong again!!!
+
 8. Play around. There are no rules in play projects. Have side play projects. Break enough things, toy with those projects.
+
 9. Learn enough to do something useful. Curiosity is a critical component of learning—especially self-learning. When we were children.,  we had rapid periods of learning driven mainly by curiosity. We wanted to know how the world works, so we asked a dumb questions and sought out answers to help us understand the world we’re living in. Unfortunately, as we grow up, much of that curiosity tends to disappear as we start to take the world for granted. As a result, our learning slows down and we find education boring instead of fascinating.
+
 10. Teach. It’s easy to be filled with thoughts of self-doubt when you’re considering whether you’re worthy or not to teach what you know.
   But if you want to learn a subject in depth, if you really want to gain understanding about a subject, you have to teach it. Move out of your comfort zone and teach what you’ve learned to someone else. It’s a great way to fill in the gaps in your own learning as you try to explain it to others.
 It’s a process that will cause you to really dissect & understand the topic you’re learning about in your own mind as you organise the information in a way that will make it understandable to others.
